@@ -1,0 +1,6 @@
+---
+applications:
+ - name: recommenderpythonstc
+   host: recommender-python-stc
+   memory: 128M
+   domain: mybluemix.net
